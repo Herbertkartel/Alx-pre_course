@@ -1,2 +1,2 @@
 My second command
-oding is a super power
+coding is a super power
